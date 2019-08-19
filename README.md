@@ -4,3 +4,6 @@ $ make sim
 
 C: 
 $ ./c_stream.sh
+
+check:
+$ make check

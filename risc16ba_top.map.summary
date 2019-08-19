@@ -1,0 +1,10 @@
+Analysis & Synthesis Status : Successful - Fri Mar  1 17:58:19 2019
+Quartus II 32-bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : risc16ba_top
+Top-level Entity Name : risc16ba_top
+Family : Cyclone
+Total logic elements : 1,439
+Total pins : 126
+Total virtual pins : 0
+Total memory bits : 1,904
+Total PLLs : 1

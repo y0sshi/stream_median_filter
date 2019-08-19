@@ -1,2 +1,0 @@
-SOFTINCLUDE /home/cad/cadence-incisiv-15.20.020/tools/inca/files/cds.lib
-define worklib ../worklib
